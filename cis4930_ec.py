@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Memory_DataBase:
     def __init__(self):
         self.mainStorage = {}
